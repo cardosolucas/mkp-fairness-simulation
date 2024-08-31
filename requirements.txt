@@ -1,0 +1,7 @@
+numpy
+pandas
+joblib
+scipy
+scikit-learn
+wonderwords
+numba
